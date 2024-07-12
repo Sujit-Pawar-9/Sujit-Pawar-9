@@ -1,10 +1,7 @@
 <ul>
   <li>👋 Hi, I'm <b>Sujit Pawar</b></li>
-  <li>🎓 I'm a Mechanical Engineer, interested in coding and emerging technologies</li>
-  <li>🔭 I'm currently pusuing PG-DAC from IET,pune</li>
   <li>✨ Be positive, because positivity is never a waste of energy</li>
   <li>🖥️ Embrace challenges, stay curious, and keep coding!</li>
-  <li>⚙ We Mech IT perfect!</li>
 </ul>
 
 
